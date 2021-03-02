@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Bermuda:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Bermuda_jar</output-path>
+    <root id="archive" name="Practice programs.jar">
+      <element id="module-output" name="Practice programs" />
+    </root>
+  </artifact>
+</component>
